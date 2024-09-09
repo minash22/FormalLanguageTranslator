@@ -1,0 +1,10 @@
+print(3);
+assign [23 to jack];
+read(jack, rupert);
+for(jack := 23 ; >= 69 rupert) do {
+    print(HelloWorld)
+};
+
+assign [ 0 to x];
+
+for (< x 10 ) do assign [+( x,1) to x]
