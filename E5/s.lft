@@ -1,0 +1,6 @@
+assign[10 to a_1] [20 to _2b];
+print (a_1, _2b, 100);
+assign[20 to _2b, c, d];
+print(+(_2b,c,d) , 303);
+assign[+(5, - 7 3,10) to x];
+print(x)
